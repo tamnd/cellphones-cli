@@ -1,0 +1,10 @@
+title       = "cellphones"
+baseURL     = "https://cellphones-cli.tamnd.com/"
+description = "A command line for cellphones."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/cellphones-cli"
